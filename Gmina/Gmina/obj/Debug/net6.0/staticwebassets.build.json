@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "A3fxQ47MwW067E8zmrVFLNzI+IfozWiUZc8t63PN1YY=",
+  "Source": "Gmina",
+  "BasePath": "_content/Gmina",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Gmina\\wwwroot",
+      "Source": "Gmina",
+      "ContentRoot": "C:\\Users\\Admin\\source\\repos\\Gmina\\Gmina\\Gmina\\wwwroot\\",
+      "BasePath": "_content/Gmina",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Admin\\source\\repos\\Gmina\\Gmina\\Gmina\\wwwroot\\favicon.ico",
+      "SourceId": "Gmina",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Admin\\source\\repos\\Gmina\\Gmina\\Gmina\\wwwroot\\",
+      "BasePath": "_content/Gmina",
+      "RelativePath": "favicon.ico",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\favicon.ico"
+    }
+  ]
+}
